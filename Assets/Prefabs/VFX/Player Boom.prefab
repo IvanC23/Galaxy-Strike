@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
-      value: 2
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 4526702053564830422, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: m_LocalPosition.x
