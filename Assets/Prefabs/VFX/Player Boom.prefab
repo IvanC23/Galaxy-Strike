@@ -13,8 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: d774b7172c6ec614c8a8dae000053926, type: 2}
     - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
+      propertyPath: lengthInSec
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
@@ -27,6 +31,10 @@ PrefabInstance:
     - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
       value: 0.20700246
+      objectReference: {fileID: 0}
+    - target: {fileID: 3497142657959008690, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4526702053564830422, guid: dd41d5a5a21448844b9395f4c303340e, type: 3}
       propertyPath: m_LocalPosition.x
